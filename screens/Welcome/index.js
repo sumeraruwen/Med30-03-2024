@@ -85,7 +85,7 @@ const Welcome = ({ navigation }) => {
         <View
           style={{
             display: "flex",
-            width: "65%",
+            width: "80%",
             marginTop: 100,
           }}
         >
