@@ -117,7 +117,7 @@ const Llegendes = ({ navigation }) => {
 
       <View style={{ flexDirection: "row", paddingLeft: 20, marginTop: 20 }}>
         <Text style={{ color: "white", fontSize: 24, marginLeft: 0 }}>
-          Legendes \ Leyendas
+        Llegendes \ Leyendas
         </Text>
       </View>
 

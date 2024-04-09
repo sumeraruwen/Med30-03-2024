@@ -19,7 +19,7 @@ export const songsList = [
 
     {
         title: "L'arribada del tren a Mataró",
-        artist: 'KPimarketing.es',
+        artist: 'kpimarketing.es',
         flag: '333',
         artwork: require('../images/Mataro_foto.webp'),
         url: require('../audios/TrenMataro.mp3'),
@@ -28,7 +28,7 @@ export const songsList = [
 
     {
         title: "La llegada del tren a Mataró",
-        artist: 'KPimarketing.es',
+        artist: 'kpimarketing.es',
         flag: '777',
         artwork: require('../images/Mataro_foto.webp'),
         url: require('../audios/Cast_TrenMataro.mp3'),
