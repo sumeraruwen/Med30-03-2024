@@ -1,8 +1,9 @@
 export const songsList = [
     {
         title: 'Les Trementinaires',
-        artist: '✍️Pilar Pelegri Terrado',
-        flag: '333',
+      //  artist: '✍️Pilar Pelegri Terrado',
+        artist: 'Pilar Pelegri Terrado',
+      //  flag: '333',
         artwork: require('../images/foto-Trementinaire.webp'),
         url: require('../audios/Les_Trementinaires.mp3'),
         id: '7',
@@ -10,8 +11,9 @@ export const songsList = [
 
     {
         title: 'Las Trementinaires',
-        artist: '✍️Pilar Pelegri Terrado',
-        flag: '777',
+      //  artist: '✍️Pilar Pelegri Terrado',
+        artist: 'Pilar Pelegri Terrado',
+      //  flag: '777',
         artwork: require('../images/foto-Trementinaire.webp'),
         url: require('../audios/Cast_LesTrementinaires.mp3'),
         id: '8',
@@ -19,8 +21,9 @@ export const songsList = [
 
     {
         title: "L'arribada del tren a Mataró",
-        artist: 'kpimarketing.es',
-        flag: '333',
+       // artist: 'kpimarketing.es',
+        artist: 'Medistoris',
+      //  flag: '333',
         artwork: require('../images/Mataro_foto.webp'),
         url: require('../audios/TrenMataro.mp3'),
         id: '9',
@@ -28,8 +31,9 @@ export const songsList = [
 
     {
         title: "La llegada del tren a Mataró",
-        artist: 'kpimarketing.es',
-        flag: '777',
+        //artist: 'kpimarketing.es',
+        artist: 'Medistoris',
+       // flag: '777',
         artwork: require('../images/Mataro_foto.webp'),
         url: require('../audios/Cast_TrenMataro.mp3'),
         id: '10',

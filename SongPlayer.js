@@ -258,14 +258,14 @@ const skipToPrevious = async () => {
               flexDirection: "row",
               alignItems: "center",
               marginTop: 5,
-              marginLeft: 33,
+              marginLeft: 26,
             }}
           >
-            <MaterialIcons
+            {/* <MaterialIcons
               name={"record-voice-over"}
               size={width(5.5)}
               color={"black"}
-            />
+            /> */}
             {songsList[currentSongIndex]?.flag && (
               <Image
                 source={

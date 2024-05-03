@@ -121,7 +121,7 @@ const Histories = ({ navigation }) => {
             source={require("../../src/images/back-white.webp")}
             style={{ height: 50, width: 50, marginRight: 6 }}
           />
-          <Text style={{ fontSize: 19, color: "#ffffff",marginTop:10 }}>Medistoris.cat</Text>
+          {/* <Text style={{ fontSize: 19, color: "#ffffff",marginTop:10 }}>Medistoris.cat</Text> */}
         </TouchableOpacity>
 
         <Text
@@ -129,11 +129,12 @@ const Histories = ({ navigation }) => {
             fontSize: 18,
             color: "#ffffff",
             fontWeight: "500",
-            marginLeft: 45,
+            marginLeft: '20%',
             marginTop:10
           }}
         >
-          Cultura Catalana
+          {/* Cultura Catalana */}
+          Medistoris.cat
         </Text>
       </View>
 
@@ -206,11 +207,11 @@ const Histories = ({ navigation }) => {
                       marginTop: 5,
                     }}
                   >
-                    <MaterialIcons
+                    {/* <MaterialIcons
                       name={"record-voice-over"}
                       size={width(5.5)}
                       color={"#ffffff"}
-                    />
+                    /> */}
                     {item.flag && (
                       <Image
                         source={item.flag === "333" ? flag333 : flag777}
@@ -222,7 +223,7 @@ const Histories = ({ navigation }) => {
                         color: "white",
                         fontSize: 13,
                         verticalAlign: "middle",
-                        marginLeft: 5,
+                       // marginLeft: 5,
                       }}
                     >
                       {item.artist}

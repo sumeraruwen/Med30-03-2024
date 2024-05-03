@@ -105,16 +105,17 @@ const Main = ({ navigation }) => {
               />
             </View>
             <View>
-              <Text style={styles.boxText}>Històries ⚡️🎧 immersives</Text>
+              {/* <Text style={styles.boxText}>Històries ⚡️🎧 immersives</Text> */}
+              <Text style={styles.boxText}>Històries immersives</Text>
               <View style={{ flexDirection: "row", marginTop: 5 }}>
-                <Image
+                {/* <Image
                   source={require("../../src/images/flag-333.webp")}
                   style={styles.flag}
                 />
                 <Image
                   source={require("../../src/images/flag-777.webp")}
                   style={styles.flag}
-                />
+                /> */}
               </View>
             </View>
           </TouchableOpacity>
@@ -132,11 +133,11 @@ const Main = ({ navigation }) => {
               />
             </View>
             <View>
-              <Text style={styles.boxText}>Llegendes ⚡️🎧 immersives</Text>
-              <View style={{ flexDirection: "row", marginTop: 5 }}>
+              <Text style={styles.boxText}>Llegendes immersives</Text>
+              {/* <View style={{ flexDirection: "row", marginTop: 5 }}>
                 <Image source={flag333} style={styles.flag} />
                 <Image source={flag777} style={styles.flag} />
-              </View>
+              </View> */}
             </View>
           </TouchableOpacity>
           <TouchableOpacity
@@ -180,7 +181,8 @@ const Main = ({ navigation }) => {
           >
             <View style={styles.totalButton}>
               <Text style={styles.totalBtnText}>
-                Escolta tots els 🔈 àudios
+                {/* Escolta tots els 🔈 àudios */}
+                Escolta tots els àudios
               </Text>
             </View>
           </TouchableOpacity>
