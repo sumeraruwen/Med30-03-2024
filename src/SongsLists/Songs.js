@@ -60,7 +60,7 @@ export const songsList = [
     artist: 'Octavi Pujades',
    // flag: '333',
     artwork: require('../images/jordi_new.webp'),
-   url: require('../audios/jordi_catala.mp3'),
+   url: require('../audios/new111.mp3'),
     id: '16',
   },
 
@@ -68,8 +68,8 @@ export const songsList = [
     title: 'La Leyenda de Sant Jordi',
     artist: 'Octavi Pujades',
    // flag: '777',
-    artwork: require('../images/jordi.webp'),
-    url: require('../audios/jordi_cast.mp3'),
+    artwork: require('../images/222.webp'),
+    url: require('../audios/222.mp3'),
     id: '17',
   },
   {
