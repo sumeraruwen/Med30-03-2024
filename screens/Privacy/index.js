@@ -28,7 +28,7 @@ export default function Privacy({navigation, route}) {
                     MEDISTORIS posa a disposició dels usuaris. L’usuari adquireix aquesta condició en el moment de
                     descarregar-la i fer-ne ús.
 
-                    Aquesta versió de l’APLICACIÓ està disponible de forma gratuïta a Google Play i Apple Store. L’accés
+                    Aquesta versió de l’APLICACIÓ està disponible a Google Play i Apple Store. L’accés
                     a l’APLICACIÓ comporta que l’usuari reconeix haver acceptat i consentit sense reserves aquestes
                     condicions d’ús.
 
@@ -38,7 +38,7 @@ export default function Privacy({navigation, route}) {
                 </Text>
                 <Text style={styles.paragraph}>
 
-                    L’APLICACIÓ es de contingut GRATUÏT i té l’objectiu d’apropar i divulgar la Cultura Catalana d’una
+                    L’APLICACIÓ té l’objectiu d’apropar i divulgar la Cultura Catalana d’una
                     forma innovadora i amb la finalitat d’arribar a tot tipus de públic, entitats, escoles i instituts,
                     oferint àudios immersius de Cultura Catalana apropant les tecnologies Immersives a tothom,
                     disminuint l'escletxa digital.
